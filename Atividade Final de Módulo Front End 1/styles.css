@@ -83,3 +83,8 @@ p:hover a {
 .color-point {
   color: black;
 }
+
+.text-name {
+  font-size: 60px;
+  font-family: "Franklin Gothic Medium";
+}
